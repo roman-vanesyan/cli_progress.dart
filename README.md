@@ -1,7 +1,7 @@
 # progress
 Command-line progress bar for Dart
 
-# Licence
+## Licence
 Released under the terms of [MIT] licence.
 
 [MIT]: ./LICENSE

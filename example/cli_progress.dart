@@ -1,4 +1,4 @@
-import 'package:progress/progress.dart' show ProgressBar;
+import 'package:cli_progress/cli_progress.dart' show ProgressBar;
 
 void main() {
   final bar = new ProgressBar(10.0);
